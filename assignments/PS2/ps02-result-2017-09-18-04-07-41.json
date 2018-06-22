@@ -1,0 +1,54 @@
+{
+    "tests": [
+        {
+            "output": {
+                "passfail": "passed"
+            },
+            "traceback": "",
+            "description": "Test for construction sign detection with a blank scene (5 points)"
+        },
+        {
+            "output": {
+                "passfail": "passed"
+            },
+            "traceback": "",
+            "description": "Test for do not enter sign detection with a blank scene (10 points)"
+        },
+        {
+            "output": {
+                "passfail": "passed"
+            },
+            "traceback": "",
+            "description": "Test for stop sign detection with a blank scene (20 points)"
+        },
+        {
+            "output": {
+                "passfail": "passed"
+            },
+            "traceback": "",
+            "description": "Test for traffic light detection with a blank scene (15 points)"
+        },
+        {
+            "output": {
+                "passfail": "passed"
+            },
+            "traceback": "",
+            "description": "Test for traffic light detection with a simulated street scene (25 points)"
+        },
+        {
+            "output": {
+                "passfail": "passed"
+            },
+            "traceback": "",
+            "description": "Test for warning sign detection with a blank scene (5 points)"
+        },
+        {
+            "output": {
+                "passfail": "passed"
+            },
+            "traceback": "",
+            "description": "Test for yield sign detection with a blank scene (20 points)"
+        }
+    ],
+    "unauthorized_lib_calls": []
+}
